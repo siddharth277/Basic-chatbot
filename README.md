@@ -119,6 +119,14 @@ Look for labels:
 
 ---
 
+## 🚀 Start Contributing
+
+ Go to the Issues tab  
+ Pick any issue  
+ Comment "assign me"  
+ Submit a Pull Request  
+
+
 ## 🎯 Goal
 
 * Practice debugging real code
