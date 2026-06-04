@@ -5,14 +5,14 @@
 A beginner-friendly chatbot project built using Jupyter Notebook.
 This project is intentionally imperfect to help contributors practice debugging and open-source contributions.
 
-----
+---
 
 ## 📁 Project Structure
 
 * `chatbot.ipynb` → Main chatbot implementation
 * (optional) additional notebook files for testing or experiments
 
-----
+---
 
 ## ✨ Features
 
