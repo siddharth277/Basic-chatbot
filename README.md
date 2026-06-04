@@ -64,18 +64,6 @@ chatbot.ipynb
 
 ---
 
-## 🧪 Example
-
-```
-Input: hello
-Output: Hi there!
-
-Input: how are you
-Output: I'm fine!
-```
-
----
-
 ## 🤝 Contributions Welcome
 
 This project is designed for beginners to contribute.
